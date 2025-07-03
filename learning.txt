@@ -17,6 +17,7 @@ Firewall or Proxy
 
 How I fixed it:
 I turned of my proxy and hotspotted my laptop using my phone
-I then cloned the repo using the HTTPS method instead of SSH. I used the following command:
+I then cloned the repo using the HTTPS method instead of SSH. 
+I used the following command:
 
  git clone git@github.com:Kenyai402/MyFirstRepo.git

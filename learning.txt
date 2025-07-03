@@ -1,3 +1,5 @@
+What I have learned from this course:
+
 I've learnt quite a lot of concepts partaining version control with git and github. However, I did encounter a challenge
 when it came to cloning my remote repo to my local machine. I was trying to use the SSH key
 but I was getting this error:

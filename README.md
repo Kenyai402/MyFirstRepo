@@ -1,5 +1,3 @@
-This is my first repository created as part of a GitHub learning task
-
 My Personal and Academic Goals for Next Year
 🌱 Personal Goals (2026)
 
